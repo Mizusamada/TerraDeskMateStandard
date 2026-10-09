@@ -1,0 +1,15 @@
+* text=auto
+*.png binary
+*.ico binary
+*.mp3 binary
+*.wav binary
+*.skel binary
+*.pth binary
+*.ckpt binary
+*.exe binary
+*.bin binary
+
+# Bundled Chromium license notices are documentation, not application HTML source.
+LICENSES.chromium.html linguist-documentation
+apps/desktop/src/pet/vendor/** linguist-vendored
+
