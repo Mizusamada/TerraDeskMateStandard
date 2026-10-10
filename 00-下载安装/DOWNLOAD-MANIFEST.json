@@ -1,0 +1,80 @@
+{
+  "edition": "standard",
+  "version": "0.3.1",
+  "repo": "Mizusamada/TerraDeskMateStandard",
+  "baseTag": "v0.3.0-standard",
+  "updateTag": "v0.3.1-standard",
+  "totalDownloadBytes": 2264344934,
+  "assets": [
+    {
+      "apiUrl": "https://api.github.com/repos/Mizusamada/TerraDeskMateStandard/releases/assets/625594817",
+      "contentType": "application/octet-stream",
+      "createdAt": "2026-10-09T16:59:07Z",
+      "digest": "sha256:cdaf257e02164daccd82185f02fac79256eaf852753d9ef93676176cf7ef0f6b",
+      "downloadCount": 0,
+      "id": "RA_kwDOVCvpFM4lSdHB",
+      "label": "",
+      "name": "TerraDeskMateStandard-Setup-0.3.0-1.bin",
+      "size": 995274752,
+      "state": "uploaded",
+      "updatedAt": "2026-10-09T17:00:48Z",
+      "url": "https://github.com/Mizusamada/TerraDeskMateStandard/releases/download/v0.3.0-standard/TerraDeskMateStandard-Setup-0.3.0-1.bin"
+    },
+    {
+      "apiUrl": "https://api.github.com/repos/Mizusamada/TerraDeskMateStandard/releases/assets/625599215",
+      "contentType": "application/octet-stream",
+      "createdAt": "2026-10-09T17:00:50Z",
+      "digest": "sha256:11e4284f0a32d4505cfb2d41fcc6f70e4defa1655f9d8411cd60e6b5181f6b31",
+      "downloadCount": 0,
+      "id": "RA_kwDOVCvpFM4lSeLv",
+      "label": "",
+      "name": "TerraDeskMateStandard-Setup-0.3.0-2.bin",
+      "size": 1000000000,
+      "state": "uploaded",
+      "updatedAt": "2026-10-09T17:02:34Z",
+      "url": "https://github.com/Mizusamada/TerraDeskMateStandard/releases/download/v0.3.0-standard/TerraDeskMateStandard-Setup-0.3.0-2.bin"
+    },
+    {
+      "apiUrl": "https://api.github.com/repos/Mizusamada/TerraDeskMateStandard/releases/assets/625603445",
+      "contentType": "application/octet-stream",
+      "createdAt": "2026-10-09T17:02:36Z",
+      "digest": "sha256:36ca7f32e30663c42a5c39f4c88bc96d4bad299d99bd76180bb9ea7e22e5e516",
+      "downloadCount": 0,
+      "id": "RA_kwDOVCvpFM4lSfN1",
+      "label": "",
+      "name": "TerraDeskMateStandard-Setup-0.3.0-3.bin",
+      "size": 228895503,
+      "state": "uploaded",
+      "updatedAt": "2026-10-09T17:02:59Z",
+      "url": "https://github.com/Mizusamada/TerraDeskMateStandard/releases/download/v0.3.0-standard/TerraDeskMateStandard-Setup-0.3.0-3.bin"
+    },
+    {
+      "apiUrl": "https://api.github.com/repos/Mizusamada/TerraDeskMateStandard/releases/assets/625604363",
+      "contentType": "application/x-msdownload",
+      "createdAt": "2026-10-09T17:03:02Z",
+      "digest": "sha256:d35f2e4347a9f3c93b615e9b1688d15dc9cc6c5cd97b168282b5ebad2636012f",
+      "downloadCount": 0,
+      "id": "RA_kwDOVCvpFM4lSfcL",
+      "label": "",
+      "name": "TerraDeskMateStandard-Setup-0.3.0.exe",
+      "size": 4725104,
+      "state": "uploaded",
+      "updatedAt": "2026-10-09T17:03:03Z",
+      "url": "https://github.com/Mizusamada/TerraDeskMateStandard/releases/download/v0.3.0-standard/TerraDeskMateStandard-Setup-0.3.0.exe"
+    },
+    {
+      "apiUrl": "https://api.github.com/repos/Mizusamada/TerraDeskMateStandard/releases/assets/626837959",
+      "contentType": "application/zip",
+      "createdAt": "2026-10-10T02:56:28Z",
+      "digest": "sha256:6378c34ce99bc818f401fce365d1f064335910750fb199b5cb96b2e910170fd4",
+      "downloadCount": 0,
+      "id": "RA_kwDOVCvpFM4lXMnH",
+      "label": "",
+      "name": "TerraDeskMateStandard-Update-0.3.1.zip",
+      "size": 35449575,
+      "state": "uploaded",
+      "updatedAt": "2026-10-10T02:56:36Z",
+      "url": "https://github.com/Mizusamada/TerraDeskMateStandard/releases/download/v0.3.1-standard/TerraDeskMateStandard-Update-0.3.1.zip"
+    }
+  ]
+}
